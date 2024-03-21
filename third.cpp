@@ -61,4 +61,3 @@ int main(){
    delete[] (waveform); //if using array  
    return 0; 
 } 
-
